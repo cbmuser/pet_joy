@@ -19,7 +19,7 @@ Dual-Joystick
 [PA7] RIGHT
 Fire (Sub-D Pin 6) is coupled by two ports and two 4148 diodes. 
 
-Stupid PET Tricks (Single Joytsick)
+Stupid PET Tricks (Single Joystick)
 [PA0] LEFT
 [PA1] RIGHT
 [PA2] UP
