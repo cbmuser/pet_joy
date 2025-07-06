@@ -47,7 +47,7 @@ With the JOY/WIFI-Jumper you can swich between Joystick (open) oder Wifi (closed
 
 #### Bottom
 
-8x BS138 (SOT-23)
+8x BSS138 (SOT-23)
 
 8x 330 Ohm (0805)
 
