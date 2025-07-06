@@ -67,7 +67,7 @@ With the JOY/WIFI-Jumper you can swich between Joystick (open) oder Wifi (closed
 
 1x Piher PT6 10K
 
-USB-C 6pol, JST-connector or soldered wires for +5V and GND
+USB-C 6pol (USB4125-GF-A-0190), JST-connector or soldered wires for +5V and GND
 
 >[!CAUTION]
 >The supply must be 5V+ ! 
