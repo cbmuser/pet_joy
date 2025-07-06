@@ -76,9 +76,9 @@ USB-C 6pol, JST-connector or soldered wires for +5V and GND
 
 1x LM386 Audio Amp
 
-2x Sub-D 9pol horizontal (print)
+2x Sub-D 9pol horizontal, male (print)
 
-1x Sub-D 9pol vertical (print)
+1x Sub-D 9pol vertical,male (print)
 
 ## Links
 
