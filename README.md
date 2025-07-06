@@ -43,8 +43,42 @@ With the Wifi-Modem you'll able to connect your PET to a BBS by Telnet and the P
 
 With the JOY/WIFI-Jumper you can swich between Joystick (open) oder Wifi (closed). With the Jumper near the LM386 you can cut the audio-line. On the right, below Joystick#1-port you can connect a small speaker. 
 
+### Parts
+
+#### Bottom
+
+8x BS138 (SOT-23)
+
+8x 330 Ohm (0805)
+
+10x 10K (0805)
+
+1x Pullup, something between 1,5-2K2 (0805)
+
+#### TOP
+
+74LS257 THT/DIP
+
+4x 4148 DIP
+
+2x 100µF Elko
+
+1x Piher PT6 10K
+
+USB-C 6pol, JST-connector or soldered wires for +5V and GND
+
 >[!CAUTION]
->The supply must be 5V+ ! You can use the JST-connector or the USB-3 charge-port.
+>The supply must be 5V+ ! 
+
+2 Jumper and three Pin-headers 2pol
+
+1x Wemos D1 Mini NodeMCU
+
+1x LM386 Audio Amp
+
+2x Sub-D 9pol horizontal (print)
+
+1x Sub-D 9pol vertical (print)
 
 ## Links
 
