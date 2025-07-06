@@ -36,6 +36,15 @@ For driving and decoupling the CB2-Sound a LM386 driver is included. You can adj
 ## WIFI-Modem
 With the Wifi-Modem you'll able to connect your PET to a BBS by Telnet and the PETTERM. It uses the known, modded firmware for the WEMOS D1 NodeMCU. 
 
+
+
+## PCB
+![PCB](https://github.com/cbmuser/pet_joy/blob/main/images/pcb.png)
+With the JOY/WIFI-Jumper you can swich between Joystick (open) oder Wifi (closed). With the Jumper near the LM386 you can cut the audio-line. On the right, below Joystick#1-port you can connect a small speaker. 
+
+>[!CAUTION]
+>The supply must be 5V+ ! You can uses the JST-connector or the USB-3 charge-port.
+
 ## Links
 
 http://www.mediafire.com/file/tm71a1oa1a3macc/alwyz_modded_firmware.rar
