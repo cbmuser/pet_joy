@@ -55,7 +55,7 @@ With the JOY/WIFI-Jumper you can swich between Joystick (open) oder Wifi (closed
 
 1x Pullup, something between 1,5-2K2 (0805)
 
-#### TOP
+#### Top
 
 74LS257 THT/DIP
 
