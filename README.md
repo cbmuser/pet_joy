@@ -80,6 +80,8 @@ USB-C 6pol, JST-connector or soldered wires for +5V and GND
 
 1x Sub-D 9pol vertical,male (print)
 
+1x Userport-Connector
+
 ## Links
 
 Firmware: http://www.mediafire.com/file/tm71a1oa1a3macc/alwyz_modded_firmware.rar
