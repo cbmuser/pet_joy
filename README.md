@@ -48,8 +48,9 @@ With the JOY/WIFI-Jumper you can swich between Joystick (open) oder Wifi (closed
 
 ## Links
 
-http://www.mediafire.com/file/tm71a1oa1a3macc/alwyz_modded_firmware.rar
-https://github.com/ChartreuseK/PETTERM
+Firmware: http://www.mediafire.com/file/tm71a1oa1a3macc/alwyz_modded_firmware.rar
+
+PETTERM: https://github.com/ChartreuseK/PETTERM
 
 ### Games
 Old: https://archive.org/details/softwarelibrary_pet or https://portcommodore.com/files/petfiles.htm
