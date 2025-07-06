@@ -17,7 +17,6 @@ Dual-Joystick
 [PA5] DOWN  ---> Fire
 [PA6] LEFT
 [PA7] RIGHT
-
 Fire (Sub-D Pin 6) is coupled by two ports and two 4148 diodes. 
 
 Stupid PET Tricks (Single Joytsick)
@@ -30,6 +29,31 @@ Stupid PET Tricks (Single Joytsick)
 [PA6] UNUSED
 [PA7] UNUSED
 </code>
+
+## CB2-Sound
+For driving and decoupling the CB2-Sound a LM386 driver is included. You can adjust the volume by the 10K potentiometer. It is only a small gain-stage (max. x20) to drive a 1 Watt/8Ohm speaker.
+
+## WIFI-Modem
+With the Wifi-Modem you'll able to connect your PET to a BBS by Telnet and the PETTERM. It uses the known, modded firmware for the WEMOS D1 NodeMCU. 
+
+## Links
+
+http://www.mediafire.com/file/tm71a1oa1a3macc/alwyz_modded_firmware.rar
+https://github.com/ChartreuseK/PETTERM
+
+### Games
+Old: https://archive.org/details/softwarelibrary_pet or https://portcommodore.com/files/petfiles.htm
+
+New: https://itch.io/games/tag-commodore-pet
+
+
+
+
+
+
+
+
+
 
 
 
