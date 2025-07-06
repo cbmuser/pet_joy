@@ -59,6 +59,8 @@ With the JOY/WIFI-Jumper you can swich between Joystick (open) oder Wifi (closed
 
 74LS257 THT/DIP
 
+1x Ceramic Capacitor 100nF THT
+
 4x 4148 DIP
 
 2x 100µF Elko
