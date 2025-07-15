@@ -5,6 +5,20 @@ The adapter is connected to the Userport and uses the 8 bit I/Os and the handsha
 It uses the known, modded C64 Wifi-Modem software and a Wemos D1 Mini. Unfortunally in this first version are 300 up to 1200 Baud possible. 2400 Baud causes transfer-errors and I still must discover the issue. It was only tested with the second PET board 2001N.
 For the CB2-line a seperate jumper is included to disconnect the LM386 amplifier, because in Wifi-mode it will produce aggy Rx-responses on the audio-line.
 
+## Update-Diary
+15.7.25
+The "2400 Baud"-Issue is nearly fixed. The PETTERM bitbanging IRQ lo-timer must be adjusted to the seemingly a touch faster WEMOS D1 Mini. It's in testing and an updated PETTERM for this setup will follow soon.
+
+<img src="https://github.com/cbmuser/pet_joy/blob/main/images/2400baud_cbm8296.jpg" width="25%">
+
+
+13.7.25
+Two adapters: the "horizontal Joystick" and a "C2N-Breakout and Power-Adapter" were added in the adapter-folder. In the ZIPs you'll find Gerber production data.
+
+
+<img src="https://github.com/cbmuser/pet_joy/blob/main/adapter/c2n-breakout.png" width="25%">
+<img src="https://github.com/cbmuser/pet_joy/blob/main/adapter/hor_adapter.png" width="25%"> 
+
 ## Joystick-Ports
 
 <code>
