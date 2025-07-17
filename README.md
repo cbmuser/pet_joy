@@ -7,7 +7,7 @@ For the CB2-line a seperate jumper is included to disconnect the LM386 amplifier
 
 ## Update-Diary
 17.7.25
-Added the PETTERM v0.7.0 using the 2400 Baud fix. If it would'nt work and you struggeling with messy chars, pick up the original release and give it a try. You can adjust the timing in petterm.s, line 618.
+Added the PETTERM v0.7.0 using the 2400 Baud fix. If it won't work and you struggeling with messy chars, pick up the original release and give it a try. You can adjust the timing in petterm.s, line 618.
 
 15.7.25
 The "2400 Baud"-Issue is nearly fixed. The PETTERM bitbanging IRQ lo-timer must be adjusted to the seemingly a touch faster WEMOS D1 Mini. It's in testing and an updated PETTERM for this setup will follow soon.
