@@ -7,7 +7,7 @@ For the CB2-line a seperate jumper is included to disconnect the LM386 amplifier
 
 ## Update-Diary
 4.8.2025
-The C2N Power- and Breakout-Adapter Gerbers was exchanged. The USB-Pinout was wrong, but's easy to fix. 
+The C2N Power- and Breakout-Adapter Gerbers was exchanged. The USB-Pinout was wrong, but it's easy to fix. 
 ````
 Look from the back-side to the pins:
 GND
