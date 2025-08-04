@@ -6,6 +6,24 @@ It uses the known, modded C64 Wifi-Modem software and a Wemos D1 Mini. Unfortuna
 For the CB2-line a seperate jumper is included to disconnect the LM386 amplifier, because in Wifi-mode it will produce aggy Rx-responses on the audio-line.
 
 ## Update-Diary
+4.8.2025
+The C2N Power- and Breakout-Adapter Gerbers was exchanged. The USB-Pinout was wrong, but's easy to fix. 
+````
+Look from the back-side to the pins:
+GND
+B9
+X
+A5
+B5
+X
+A9
+GND
+
+Solder the pins:B9 to A5 and B9 to A9. 
+
+````
+Sorry for that, it was done in a hurry. 
+
 17.7.25
 Added the PETTERM v0.7.0 using the 2400 Baud fix. If it won't work and you struggeling with messy chars, pick up the original release and give it a try. You can adjust the timing in petterm.s, line 618.
 
