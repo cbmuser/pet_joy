@@ -1,8 +1,21 @@
 # pet_joy
+
 CBM Pet Joystick, Wifi and CB2-Sound
+
+Stupid PET Tricks Single and Dual-Joystick (supports Auto-Fire-Joystick)
+
+Wifi-Modem @2400 Baud (and less) with NTP-Time
+
+CB2-Sound with gain-stage
+
+Wifi- and Joystick-Mode switchable by one jumper
+
 
 The adapter is connected to the Userport and uses the 8 bit I/Os and the handshake-line for the additional hardware. There are three joystick-ports, a dual-joystick and the "Stupid PET Tricks"-port. The ports, also CB2 used for 1bit-Sound are switchable to the Wifi-modem by a 74LS257 Multiplexer and a jumper. 
 It uses the known, modded C64 Wifi-Modem software and a Wemos D1 Mini. It was tested with the second PET board 2001N and a CBM 8296. For the CB2-line a seperate jumper is included to disconnect the LM386 amplifier, because in Wifi-mode it will produce aggy Rx-responses on the audio-line.
+
+>[!CAUTION]
+>Use it on your own risc ! - This is open hard- and software.
 
 
 ## Update-Diary
