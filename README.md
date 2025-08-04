@@ -28,10 +28,8 @@ The C2N Power- and Breakout-Adapter Gerbers were exchanged. The USB-Pinout was w
 Look from the back-side to the pins:
 GND
 B9
-X
 A5
 B5
-X
 A9
 GND
 
