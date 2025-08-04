@@ -19,7 +19,7 @@ X
 A9
 GND
 
-Solder the pins:B9 to A5 and B9 to A9. 
+Solder the pins:B9 to A5 and B5 to A9. 
 
 ````
 Sorry for that, it was done in a hurry. 
