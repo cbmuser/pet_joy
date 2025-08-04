@@ -2,11 +2,14 @@
 CBM Pet Joystick, Wifi and CB2-Sound
 
 The adapter is connected to the Userport and uses the 8 bit I/Os and the handshake-line for the additional hardware. There are three joystick-ports, a dual-joystick and the "Stupid PET Tricks"-port. The ports, also CB2 used for 1bit-Sound are switchable to the Wifi-modem by a 74LS257 Multiplexer and a jumper. 
-It uses the known, modded C64 Wifi-Modem software and a Wemos D1 Mini. Unfortunally in this first version are 300 up to 1200 Baud possible. 2400 Baud causes transfer-errors and I still must discover the issue. It was only tested with the second PET board 2001N.
-For the CB2-line a seperate jumper is included to disconnect the LM386 amplifier, because in Wifi-mode it will produce aggy Rx-responses on the audio-line.
+It uses the known, modded C64 Wifi-Modem software and a Wemos D1 Mini. It was tested with the second PET board 2001N and a CBM 8296. For the CB2-line a seperate jumper is included to disconnect the LM386 amplifier, because in Wifi-mode it will produce aggy Rx-responses on the audio-line.
+
 
 ## Update-Diary
 4.8.2025
+The again modded firmware for the Wemos D1 Mini was added. It uses like the PETTERM a 2400 Baud lauch. If you want to request and display NTP-time, you can set your timezone "at$tiz=2" for UTC+2. Write this to your setup "at&w" and after connecting to Wifi you can display date and time "at$t".
+
+>[!IMPORTANT]
 The C2N Power- and Breakout-Adapter Gerbers was exchanged. The USB-Pinout was wrong, but it's easy to fix. 
 ````
 Look from the back-side to the pins:
