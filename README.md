@@ -10,7 +10,7 @@ It uses the known, modded C64 Wifi-Modem software and a Wemos D1 Mini. It was te
 The again modded firmware for the Wemos D1 Mini was added. It uses like the PETTERM a 2400 Baud lauch. If you want to request and display NTP-time, you can set your timezone "at$tiz=2" for UTC+2. Write this to your setup "at&w" and after connecting to Wifi you can display date and time "at$t".
 
 >[!IMPORTANT]
-The C2N Power- and Breakout-Adapter Gerbers was exchanged. The USB-Pinout was wrong, but it's easy to fix. 
+The C2N Power- and Breakout-Adapter Gerbers were exchanged. The USB-Pinout was wrong, but it's easy to fix. 
 ````
 Look from the back-side to the pins:
 GND
